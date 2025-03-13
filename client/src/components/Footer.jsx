@@ -16,7 +16,7 @@ function Footer() {
             alt=""
           />
         </a>
-        <a href="www.linkedin.com/in/shobhit-kumar-sharma-17bb4223a">
+        <a href="https://www.linkedin.com/in/shobhit-kumar-sharma-17bb4223a/">
           <img
             className="w-8 h-8 rounded-full"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3UHgNa9VXUDTrVTsfjkiWrMovEWvXnJ_eg&s"

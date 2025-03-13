@@ -1,9 +1,10 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
     <div className="flex items-center border-b-1 py-6 px-10 justify-between">
-      <div className="flex items-center gap-2">
+      <Link to={"/"} className="flex items-center gap-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -22,7 +23,7 @@ function Navbar() {
         <h1 className="text-4xl text-black font-bold">
           Github Profile Generator
         </h1>
-      </div>
+      </Link>
       <div>
         <img
           className="w-12"
