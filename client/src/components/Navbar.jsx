@@ -22,7 +22,7 @@ function Navbar() {
       </a>
       <img
         className="w-7 h-7 opacity-80"
-        src="https://www.svgrepo.com/show/327408/logo-vercel.svg"
+        src="logo.png"
         alt="Vercel Logo"
       />
     </nav>
